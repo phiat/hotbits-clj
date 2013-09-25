@@ -2,6 +2,6 @@
   (:require [clojure.test :refer :all]
             [hotbits.core :refer :all]))
 
-(deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+(deftest hotbits-count
+  (testing "hotbits-count-512"
+    (is (= (count (hotbits)) 512))))
