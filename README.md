@@ -12,6 +12,8 @@ A Clojure library designed to get real random bits from Hotbits (fourmilab.ch). 
 
 ## Usage
 
+**WARNING: Use Sparingly! You will get errors if you exceed your 24-hour hotbits limit.**
+
 user=> (use 'hotbits.core)
 
 user=> (hotbits)
