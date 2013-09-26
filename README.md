@@ -16,7 +16,7 @@ A Clojure library designed to get real random bits from Hotbits (fourmilab.ch). 
 
 you can also use John Walker's [RandomX](http://www.fourmilab.ch/hotbits/source/randomX/randomX.tar.gz)  package found at fourmilab's site.
 
-add to leiningen dependecies:
+add to leiningen dependencies:
 ```clojure
 [hotbits-clj "0.2.1-SNAPSHOT"]
 ```
