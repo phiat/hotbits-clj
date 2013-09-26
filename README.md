@@ -28,7 +28,7 @@ add to leiningen dependecies:
 
 ## Todo
 
-make less hacky and user/server request friendly :)
+make less hacky and more user/server request friendly :)
 
 ## License
 
