@@ -1,4 +1,4 @@
-(defproject hotbits-clj "0.2.1-SNAPSHOT"
+(defproject hotbits-clj "0.2.2"
   :description "A toy clojure library for getting random bits from fourmilab.ch's Hotbits."
   :url "https://github.com/phiat/hotbits-clj"
   :license {:name "Eclipse Public License"
